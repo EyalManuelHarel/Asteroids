@@ -1,6 +1,6 @@
 import pygame
 from constants import *
-import time
+
 
 def main():
     pygame.init()
